@@ -1,0 +1,20 @@
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.app h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+}
+
+.app > p {
+  text-align: center;
+  color: #666;
+}
+
+.student-list {
+  margin-top: 30px;
+}
